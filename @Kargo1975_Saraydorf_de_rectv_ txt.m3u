@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="Trt1" tvg-name="TRT 1" tvg-group="Ulusal" tvg-logo="turk-tv1/image/trt1.png",TRT 1
+#EXTINF:-1 tvg-id="Trt1" tvg-name="TRT 1" tvg-group="Ulusal" tvg-logo="https://cdn.technettv.com/channel/19958/logo_256_1699961525.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="ATV" tvg-group="Ulusal" tvg-logo="turk-tv1/image/atv.png",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
