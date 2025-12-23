@@ -6,7 +6,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="KanalD" tvg-name="Kanal D" tvg-group="Ulusal" tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png",Kanal D
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" tvg-group="Ulusal" tvg-logo="turk-tv1/image/startv.png",Star TV
-https://tatatam.trt1sultanfatihss.workers.dev/https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=startv_web&ce=3
+http://honeywatch.net:80/play/live.php?mac=00:1A:79:BA:9E:AE&stream=912477&extension=ts&play_token=TU70kudrRj
 #EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" tvg-group="Ulusal" tvg-logo="turk-tv1/image/showtv.png",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="Now" tvg-name="Now" tvg-group="Ulusal" tvg-logo="turk-tv1/image/now.png",Now
