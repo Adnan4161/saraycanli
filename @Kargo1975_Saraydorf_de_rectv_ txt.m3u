@@ -125,7 +125,7 @@ https://ds.ayakkabiparti.lol/box1/tracks-v1a1/mono.ts.m3u8
 https://ds.ayakkabiparti.lol/box2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Boxoffice3" tvg-name="Boxoffice 3" group-title="Sinema" tvg-logo="turk-tv1/image/beinbox_office3.png",Boxoffice 3
 https://ds.ayakkabiparti.lol/box3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="trtmuzik" tvg-name="Nr1" group-title="trtmuzik" tvg-logo="turk-tv1/image/trtmuzik.png",TRT Müzik
+#EXTINF:-1 tvg-id="trtmuzik" tvg-name="Nr1" group-title="Müzik" tvg-logo="turk-tv1/image/trtmuzik.png",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Nr1turk" tvg-name="Nr1turk" group-title="Müzik" tvg-logo="turk-tv1/image/nr1turk.png",Nr1turk
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
