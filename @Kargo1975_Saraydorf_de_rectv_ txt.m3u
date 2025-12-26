@@ -99,8 +99,8 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8?hash=38a71e8d83516b1d9be901a97f
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
 #EXTINF:-1 tvg-id="Beinsports3" tvg-name="A Spor" group-title="Spor" tvg-logo="https://avatars.mds.yandex.net/i?id=a5b11790b58687fa61784e7373480e10d6a08399-5863201-images-thumbs&n=13",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
-#EXTINF:-1 tvg-id="Beinsports4" tvg-name="Beinsports 4" group-title="Spor" tvg-logo="turk-tv1/image/beinsports4.png",Beinsports 4
-https://one.b2a7fa109ef84a6f.click/live/sbeinsports-4/playlist.m3u8
+#EXTINF:-1 tvg-id="Beinsports4" tvg-name="Ht Spor" group-title="Spor" tvg-logo="https://avatars.mds.yandex.net/i?id=ad45b3d76156582aaeafa50a4acda46d86e3ff24-10147999-images-thumbs&n=13",Ht Spor
+https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=79wlt9xsbxuz&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
 #EXTINF:-1 tvg-id="Beinsports5" tvg-name="Beinsports 5" group-title="Spor" tvg-logo="turk-tv1/image/beinsports5.png",Beinsports 5
 https://one.b2a7fa109ef84a6f.click/live/sbeinsports-5/playlist.m3u8
 #EXTINF:-1 tvg-id="Beinsportsmax1" tvg-name="Beinsportsmax 1" group-title="Spor" tvg-logo="turk-tv1/image/beinsportsmax1.png",Beinsportsmax 1
