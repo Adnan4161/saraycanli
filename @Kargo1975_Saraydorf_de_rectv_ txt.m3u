@@ -77,13 +77,13 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="Moviesmartturk" tvg-name="Moviesmart Turk" group-title="Sinema" tvg-logo="https://avatars.mds.yandex.net/i?id=36f564fa3e8fcfb41eae4864f9e4fe74c640be95-4033562-images-thumbs&n=13",Moviesmart turk
 https://ds.ayakkabiparti.lol/mvturk/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Sinemaaile2" tvg-name="Sinemaaile2" group-title="Sinema" tvg-logo="turk-tv1/image/sinemaaile2.png",Sinemaaile2
+#EXTINF:-1 tvg-id="Sinemaaile2" tvg-name="Sinemaaile2" group-title="Sinema" tvg-logo="https://avatars.mds.yandex.net/i?id=9207fde25dc97984e57c6ac308543e3238e88546-5368643-images-thumbs&n=13",Sinema Aile
 https://ds.ayakkabiparti.lol/sinemaaile/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="" group-title="Sinema" tvg-logo="turk-tv1/image/sinemaaksiyon.png",Sinemaaksiyon
+#EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="" group-title="Sinema" tvg-logo="https://avatars.mds.yandex.net/i?id=48ac8defdf267803042f896d3e087ce3cfd31d14-8497446-images-thumbs&n=13",Sinema Aksiyon
 https://ds.ayakkabiparti.lol/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="Sinema" tvg-logo="turk-tv1/image/sinemaaksiyon.png",Sinemaaksiyon2
+#EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="Sinema" tvg-logo="https://avatars.mds.yandex.net/i?id=b4f5c0e93c269ef4eefcb72584fed061fd62ecfd-4821199-images-thumbs&n=13",Sinema Aksiyon2
 https://ds.ayakkabiparti.lol/sinemaaksiyon2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="Sinema" tvg-logo="turk-tv1/image/sinemakomedi.png",Sinemakomedi
+#EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="Sinema" tvg-logo="https://avatars.mds.yandex.net/i?id=f6f8465fc6197e639fcc40d22ff3946f4b00c516faf7b6d3-10230961-images-thumbs&n=13",Sinema Komedi
 https://ds.ayakkabiparti.lol/sinemakomedi/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sinematv" tvg-name="Sinematv" group-title="Sinema" tvg-logo="turk-tv1/image/sinematv.png",Sinematv
 https://ds.ayakkabiparti.lol/sinema/tracks-v1a1/mono.ts.m3u8
