@@ -75,7 +75,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-id="TV24" tvg-name="TV24" group-title="Haber" tvg-logo="https://avatars.mds.yandex.net/i?id=cc7d7325c844ffe641ea2ed7cd90ed237cbfe265-4885223-images-thumbs&n=13",TV24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-#EXTINF:-1 tvg-id="Moviesmartturk" tvg-name="Moviesmart Turk" group-title="Sinema" tvg-logo="turk-tv1/image/moviesmartturk.png",Moviesmart turk
+#EXTINF:-1 tvg-id="Moviesmartturk" tvg-name="Moviesmart Turk" group-title="Sinema" tvg-logo="https://avatars.mds.yandex.net/i?id=36f564fa3e8fcfb41eae4864f9e4fe74c640be95-4033562-images-thumbs&n=13",Moviesmart turk
 https://ds.ayakkabiparti.lol/mvturk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sinemaaile2" tvg-name="Sinemaaile2" group-title="Sinema" tvg-logo="turk-tv1/image/sinemaaile2.png",Sinemaaile2
 https://ds.ayakkabiparti.lol/sinemaaile/tracks-v1a1/mono.ts.m3u8
@@ -93,24 +93,6 @@ https://ds.ayakkabiparti.lol/sinema2/tracks-v1a1/mono.ts.m3u8
 https://ds.ayakkabiparti.lol/sinema1001/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sinema1002" tvg-name="Sinema1002" group-title="Sinema" tvg-logo="turk-tv1/image/sinema1002.png",Sinema1002
 https://ds.ayakkabiparti.lol/sinema1002/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Sinema" tvg-logo="turk-tv1/image/beinmoviesaction.png",Beinmovieaction1
-https://ds.ayakkabiparti.lol/bsaction1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Beinmoviesstars" tvg-name="Beinmoviesstars" group-title="Sinema" tvg-logo="turk-tv1/image/beinmoviesstars.png",Beinmoviesstars
-https://ds.ayakkabiparti.lol/bsstars/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Beinmoviesturk" tvg-name="Beinmoviesturk" group-title="Sinema" tvg-logo="turk-tv1/image/beinmoviesturk.png",Beinmoviesturk
-https://ds.ayakkabiparti.lol/bsturk/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Beinmoviespremier1" tvg-name="Beinmoviespremier1" group-title="Sinema" tvg-logo="turk-tv1/image/beinmoviespremiere.png",Beinmoviespremier1
-https://ds.ayakkabiparti.lol/bspremier1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Beinmoviesfamily" tvg-name="" group-title="Sinema" tvg-logo="turk-tv1/image/beinmoviesfamily.png",Beinmoviesfamily
-https://ds.ayakkabiparti.lol/bsfamily/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Beinmoviescomedy" tvg-name="" group-title="Sinema" tvg-logo="turk-tv1/image/beinseriescomedy.png",Beinmoviescomedy
-https://ds.ayakkabiparti.lol/bscomedy/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Boxoffice1" tvg-name="Boxoffice 1" group-title="Sinema" tvg-logo="turk-tv1/image/beinbox_office1.png",Boxoffice 1
-https://ds.ayakkabiparti.lol/box1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Boxoffice2" tvg-name="Boxoffice 2" group-title="Sinema" tvg-logo="turk-tv1/image/beinbox_office2.png",Boxoffice 2
-https://ds.ayakkabiparti.lol/box2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Boxoffice3" tvg-name="Boxoffice 3" group-title="Sinema" tvg-logo="turk-tv1/image/beinbox_office3.png",Boxoffice 3
-https://ds.ayakkabiparti.lol/box3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="trtmuzik" tvg-name="Nr1" group-title="Müzik" tvg-logo="turk-tv1/image/trtmuzik.png",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Nr1turk" tvg-name="Nr1turk" group-title="Müzik" tvg-logo="turk-tv1/image/nr1turk.png",Nr1turk
