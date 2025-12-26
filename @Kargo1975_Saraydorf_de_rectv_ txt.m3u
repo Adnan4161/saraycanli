@@ -97,8 +97,8 @@ https://ds.ayakkabiparti.lol/sinema1002/tracks-v1a1/mono.ts.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8?hash=38a71e8d83516b1d9be901a97f1dabea
 #EXTINF:-1 tvg-id="Beinsports2" tvg-name="Trt Spor Yıldız" group-title="Spor" tvg-logo="https://avatars.mds.yandex.net/i?id=3ec3faca6418094ec7bfa4392a63e01164bb1853-5225007-images-thumbs&n=13",Trt Spor Yıldız
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
-#EXTINF:-1 tvg-id="Beinsports3" tvg-name="Beinsports 3" group-title="Spor" tvg-logo="turk-tv1/image/beinsports3.png",Beinsports 3
-https://one.b2a7fa109ef84a6f.click/live/sbeinsports-3/playlist.m3u8
+#EXTINF:-1 tvg-id="Beinsports3" tvg-name="A Spor" group-title="Spor" tvg-logo="https://avatars.mds.yandex.net/i?id=a5b11790b58687fa61784e7373480e10d6a08399-5863201-images-thumbs&n=13",A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-id="Beinsports4" tvg-name="Beinsports 4" group-title="Spor" tvg-logo="turk-tv1/image/beinsports4.png",Beinsports 4
 https://one.b2a7fa109ef84a6f.click/live/sbeinsports-4/playlist.m3u8
 #EXTINF:-1 tvg-id="Beinsports5" tvg-name="Beinsports 5" group-title="Spor" tvg-logo="turk-tv1/image/beinsports5.png",Beinsports 5
