@@ -93,10 +93,10 @@ https://ds.ayakkabiparti.lol/sinema2/tracks-v1a1/mono.ts.m3u8
 https://ds.ayakkabiparti.lol/sinema1001/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sinema1002" tvg-name="Sinema1002" group-title="Sinema" tvg-logo="https://avatars.mds.yandex.net/i?id=8cba302d51fb56edc931e9ea92c68c4a57d1af9d-4078555-images-thumbs&n=13",Sinema1002
 https://ds.ayakkabiparti.lol/sinema1002/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Beinsports1" tvg-name="Beinsports 1" group-title="Spor" tvg-logo="turk-tv1/image/beinsports1.png",Beinsports 1
-https://one.b2a7fa109ef84a6f.click/live/sbeinsports-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Beinsports2" tvg-name="Beinsports 2" group-title="Spor" tvg-logo="turk-tv1/image/beinsports2.png",Beinsports 2
-https://one.b2a7fa109ef84a6f.click/live/sbeinsports-2/playlist.m3u8
+#EXTINF:-1 tvg-id="Beinsports1" tvg-name="Trt Spor" group-title="Spor" tvg-logo="https://avatars.mds.yandex.net/i?id=aca764461aec8aa501b987d217fd0cac19348d92-4884261-images-thumbs&n=13",Trt Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8?hash=38a71e8d83516b1d9be901a97f1dabea
+#EXTINF:-1 tvg-id="Beinsports2" tvg-name="Trt Spor Yıldız" group-title="Spor" tvg-logo="https://avatars.mds.yandex.net/i?id=3ec3faca6418094ec7bfa4392a63e01164bb1853-5225007-images-thumbs&n=13",Trt Spor Yıldız
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
 #EXTINF:-1 tvg-id="Beinsports3" tvg-name="Beinsports 3" group-title="Spor" tvg-logo="turk-tv1/image/beinsports3.png",Beinsports 3
 https://one.b2a7fa109ef84a6f.click/live/sbeinsports-3/playlist.m3u8
 #EXTINF:-1 tvg-id="Beinsports4" tvg-name="Beinsports 4" group-title="Spor" tvg-logo="turk-tv1/image/beinsports4.png",Beinsports 4
