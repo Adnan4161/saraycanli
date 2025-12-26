@@ -5,21 +5,21 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="KanalD" tvg-name="Kanal D" group-title="Ulusal" tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png",Kanal D
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
-#EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="Ulusal" tvg-logo="turk-tv1/image/startv.png",Star TV
+#EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="Ulusal" tvg-logo="https://i.ibb.co/7xcy7bxL/star.jpg",Star TV
 https://dogus.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="Ulusal" tvg-logo="turk-tv1/image/showtv.png",Show TV
+#EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="Ulusal" tvg-logo="https://i.ibb.co/21j5jLmG/show.jpg",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
-#EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="Ulusal" tvg-logo="turk-tv1/image/now.png",Now
+#EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="Ulusal" tvg-logo="https://i.ibb.co/GfrLFzWT/now.png",Now
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_1080p.m3u8
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="Ulusal" tvg-logo="turk-tv1/image/tv8.png",TV8
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="Ulusal" tvg-logo="https://i.ibb.co/hFZ4Bnj4/tv8.png",TV8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="Ulusal" tvg-logo="turk-tv1/image/tv85.png",TV85
+#EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="Ulusal" tvg-logo="https://i.ibb.co/7NtqZLZ8/tv8bucuk.png",TV8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:-1 tvg-id="A2" tvg-name="A2" group-title="Ulusal" tvg-logo="turk-tv1/image/a2.png",A2
+#EXTINF:-1 tvg-id="A2" tvg-name="A2" group-title="Ulusal" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/f2/c7/72/f2c77251-bce6-9642-6daf-6fe5c0abfca6/AppIcon-1x_U007emarketing-85-220-0-6.png/256x256bb.jpg",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
-#EXTINF:-1 tvg-id="Tabiitv" tvg-name="Tabiitv" group-title="Ulusal" tvg-logo="turk-tv1/image/tabii.png",Tabiitv
+#EXTINF:-1 tvg-id="Tabiitv" tvg-name="Tabiitv" group-title="Ulusal" tvg-logo="https://img.piri.net/mnresize/128/-/piri/upload/3/2023/5/5/5261ae99-56o7eehpuu448sjojifr85.jpeg",Tabiitv
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-id="Teve2 " tvg-name="Teve2 " group-title="Ulusal" tvg-logo="turk-tv1/image/teve2.png",Teve2
+#EXTINF:-1 tvg-id="Teve2 " tvg-name="Teve2 " group-title="Ulusal" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/1d/8e/4b1d8ead-35d6-725e-142d-802e285d9d32/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/256x256bb.jpg",Teve2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" group-title="Ulusal" tvg-logo="turk-tv1/image/kanal7.png",Kanal 7
 https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
