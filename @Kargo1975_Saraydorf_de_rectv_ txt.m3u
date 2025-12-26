@@ -53,14 +53,6 @@ https://ds.ayakkabiparti.lol/lovenature/tracks-v1a1/mono.ts.m3u8
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-id="Natgeowild" tvg-name="Natgeowild" group-title="Belgesel" tvg-logo="turk-tv1/image/natgeowild.png",Natgeo Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="Minikacocuk" tvg-name="Minikacocuk" group-title="Çocuk" tvg-logo="turk-tv1/image/minikacocuk.png",Minikacocuk
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-#EXTINF:-1 tvg-id="Minikago" tvg-name="Minikago" group-title="Çocuk" tvg-logo="turk-tv1/image/minikago.png",Minikago
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork" tvg-name="Cartoonnetwork" group-title="Çocuk" tvg-logo="turk-tv1/image/cartoonnetwork.png",Cartoonnetwork
-https://ds.ayakkabiparti.lol/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="TRTÇocuk" tvg-name="TRT Çocuk" group-title="Çocuk" tvg-logo="turk-tv1/image/trtcocuk.png",TRT Çocuk
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Sözcütv" tvg-name="Sözcü tv" group-title="Haber" tvg-logo="turk-tv1/image/sozcutv.png",Sözcü tv
 https://ds.ayakkabiparti.lol/sozcutv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Halktv" tvg-name="Halktv" group-title="Haber" tvg-logo="turk-tv1/image/halktv.png",Halktv
@@ -171,3 +163,11 @@ https://one.b2a7fa109ef84a6f.click/live/seurosport1/playlist.m3u8
 https://one.b2a7fa109ef84a6f.click/live/seurosport2/playlist.m3u8
 #EXTINF:-1 tvg-id="Aspor" tvg-name="Aspor" group-title="Spor" tvg-logo="turk-tv1/image/aspor.png",Aspor
 https://one.b2a7fa109ef84a6f.click/live/saspor/playlist.m3u8
+#EXTINF:-1 tvg-id="Minikacocuk" tvg-name="Minikacocuk" group-title="Çocuk" tvg-logo="turk-tv1/image/minikacocuk.png",Minikacocuk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 tvg-id="Minikago" tvg-name="Minikago" group-title="Çocuk" tvg-logo="turk-tv1/image/minikago.png",Minikago
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork" tvg-name="Cartoonnetwork" group-title="Çocuk" tvg-logo="turk-tv1/image/cartoonnetwork.png",Cartoonnetwork
+https://ds.ayakkabiparti.lol/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="TRTÇocuk" tvg-name="TRT Çocuk" group-title="Çocuk" tvg-logo="turk-tv1/image/trtcocuk.png",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
