@@ -93,16 +93,6 @@ https://ds.ayakkabiparti.lol/sinema2/tracks-v1a1/mono.ts.m3u8
 https://ds.ayakkabiparti.lol/sinema1001/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sinema1002" tvg-name="Sinema1002" group-title="Sinema" tvg-logo="https://avatars.mds.yandex.net/i?id=8cba302d51fb56edc931e9ea92c68c4a57d1af9d-4078555-images-thumbs&n=13",Sinema1002
 https://ds.ayakkabiparti.lol/sinema1002/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="trtmuzik" tvg-name="Nr1" group-title="Müzik" tvg-logo="turk-tv1/image/trtmuzik.png",TRT Müzik
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="Nr1turk" tvg-name="Nr1turk" group-title="Müzik" tvg-logo="turk-tv1/image/nr1turk.png",Nr1turk
-https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Power" tvg-name="Power" group-title="Müzik" tvg-logo="turk-tv1/image/powertv.png", Power
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
-#EXTINF:-1 tvg-id="Powerturk" tvg-name="Powerturk" group-title="Müzik" tvg-logo="turk-tv1/image/powerturktv.png",Powerturk
-https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dreamturk" tvg-name="Dreamturk" group-title="Müzik" tvg-logo="turk-tv1/image/dreamtvturk.png",Dreamturk
-https://tatatam.trt1sultanfatihss.workers.dev/https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="Beinsports1" tvg-name="Beinsports 1" group-title="Spor" tvg-logo="turk-tv1/image/beinsports1.png",Beinsports 1
 https://one.b2a7fa109ef84a6f.click/live/sbeinsports-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Beinsports2" tvg-name="Beinsports 2" group-title="Spor" tvg-logo="turk-tv1/image/beinsports2.png",Beinsports 2
@@ -143,6 +133,16 @@ https://one.b2a7fa109ef84a6f.click/live/seurosport1/playlist.m3u8
 https://one.b2a7fa109ef84a6f.click/live/seurosport2/playlist.m3u8
 #EXTINF:-1 tvg-id="Aspor" tvg-name="Aspor" group-title="Spor" tvg-logo="turk-tv1/image/aspor.png",Aspor
 https://one.b2a7fa109ef84a6f.click/live/saspor/playlist.m3u8
+#EXTINF:-1 tvg-id="trtmuzik" tvg-name="Nr1" group-title="Müzik" tvg-logo="turk-tv1/image/trtmuzik.png",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Nr1turk" tvg-name="Nr1turk" group-title="Müzik" tvg-logo="turk-tv1/image/nr1turk.png",Nr1turk
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Power" tvg-name="Power" group-title="Müzik" tvg-logo="turk-tv1/image/powertv.png", Power
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
+#EXTINF:-1 tvg-id="Powerturk" tvg-name="Powerturk" group-title="Müzik" tvg-logo="turk-tv1/image/powerturktv.png",Powerturk
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dreamturk" tvg-name="Dreamturk" group-title="Müzik" tvg-logo="turk-tv1/image/dreamtvturk.png",Dreamturk
+https://tatatam.trt1sultanfatihss.workers.dev/https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="Minikacocuk" tvg-name="Minikacocuk" group-title="Çocuk" tvg-logo="turk-tv1/image/minikacocuk.png",Minikacocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-id="Minikago" tvg-name="Minikago" group-title="Çocuk" tvg-logo="turk-tv1/image/minikago.png",Minikago
