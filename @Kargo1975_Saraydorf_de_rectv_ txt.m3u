@@ -79,7 +79,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 https://ds.ayakkabiparti.lol/mvturk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sinemaaile2" tvg-name="Sinemaaile2" group-title="Sinema" tvg-logo="https://avatars.mds.yandex.net/i?id=9207fde25dc97984e57c6ac308543e3238e88546-5368643-images-thumbs&n=13",Sinema Aile
 https://ds.ayakkabiparti.lol/sinemaaile/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="" group-title="Sinema" tvg-logo="https://avatars.mds.yandex.net/i?id=48ac8defdf267803042f896d3e087ce3cfd31d14-8497446-images-thumbs&n=13",Sinema Aksiyon
+#EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="" group-title="Sinema" tvg-logo="https://avatars.mds.yandex.net/i?id=6da580312cde189bd5fd321a5e2adbe22337674f-12345400-images-thumbs&n=13",Sinema Aksiyon
 https://ds.ayakkabiparti.lol/sinemaaksiyon/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="Sinema" tvg-logo="https://avatars.mds.yandex.net/i?id=b4f5c0e93c269ef4eefcb72584fed061fd62ecfd-4821199-images-thumbs&n=13",Sinema Aksiyon2
 https://ds.ayakkabiparti.lol/sinemaaksiyon2/tracks-v1a1/mono.ts.m3u8
