@@ -33,19 +33,17 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz" tvg-name="TRT Avaz" group-title="Ulusal" tvg-logo="https://avatars.mds.yandex.net/i?id=ba4e50be44b7604d84f4c80596eba0d6916e9aa3-5225319-images-thumbs&n=13",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" group-title="Belgesel" tvg-logo="turk-tv1/image/dmax.png",Dmax
+#EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" group-title="Belgesel" tvg-logo="https://avatars.mds.yandex.net/i?id=dd40692de6d9c19d527962f03f056607ad08fb25-12637272-images-thumbs&n=13",Dmax
 https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=http://116.202.238.88/DMAX_TR/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="Belgesel" tvg-logo="turk-tv1/image/trtbelgesel.png",TRT Belgesel
+#EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="Belgesel" tvg-logo="https://avatars.mds.yandex.net/i?id=5f4c3be277e1a2bf0c1cffbec1f14a041f8b63d5-5628812-images-thumbs&n=13",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="Tarihtv" tvg-name="Tarihtv" group-title="Belgesel" tvg-logo="turk-tv1/image/tarihtv.png",Tarihtv
+#EXTINF:-1 tvg-id="Tarihtv" tvg-name="Tarihtv" group-title="Belgesel" tvg-logo="https://avatars.mds.yandex.net/i?id=7424f51a70c90b96f39cc6fb994f8c10f600dc74-3577053-images-thumbs&n=13",Tarihtv
 https://ds.ayakkabiparti.lol/tarihtv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" group-title="Belgesel" tvg-logo="turk-tv1/image/bbc-hd.png",BBC
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" group-title="Belgesel" tvg-logo="https://yandex-images.clstorage.net/5pbQp6130/9d578cbRd42/FSG66xdnfCWb5IA0JY6aoPBf5JH4LWTQt5azsFUQNmU8pnsq7wUEdXP4uRTio1MFJ4vpwdOnpyq2RwNlnYOLJcMwKfvGIGlwyWFQJyRM26cimLaR6epwUnJQZueFR-CyKGYgcPJYzXutdGfLKCnDBTDe6NGBsWX_pZbTv8dGHveRaPeh3TD75Z0-h3Loi5Fr6divH-9rcBx-yCcuxRLrZH03Jf2zmsN1bj0mziEpDEm_2iMUlLrucTMeXLTMkt67VSQ8pl5_fSeesg72qgrRYO1Wb5llZ7PXs0DmYImcJybwN29xMZsHvi9wbEkpIgkG8pVpXFb3oDa6ldN8TpRXN9ysdC7b8LYtGXEH-KBLGOOo2GNeai16kL5E5OWFUqqvffIlPTxbwP1sfaVD7irPhfkbohSWdeux-hEfuYqcVjlZ6rCr0rH9YNS-Bvzoghuuah7k1yctMBN3QG5vCBtv7Ph77Xvzm8x4JXNsw6NvwUx3XKDSl7DvubUYHvkN11_7Hax369g29SKcsoa6Zo2RrOhRp91n7Pac_gQjIYxcoC86O2X1uRgEMegzZsDup09GM5LrGlJ65f36GFKyQ1zdN9Nqseuf9f_tVnsMsWXLH6coVS1faar_kHMLKiaEUqOt8jKv-rdSB__tuigCa69OD33UKVmT_Wp4vZFf9YWUk3pV5nCpHvJ1Lla-RjHkDJgrpdXmEmIkdpv9QaUmDVymrL74onz5FAd9ZTzuBGjrBE550iMTkT1tcXPZljuBHtq-1GIzJxi49OEcdoI_YsOZ72bZY5nq4_CWvE3loMddaSA2N-u7cVnPPm_y7comLwxB-VWhVt9xLfWwWhKzypuQcxmlOySQtbatm7rP9KaMGiXvES9WJy7yGTMIq-8FEaIgsfNi_D4cy3Vm-aTBbmbNjjIWo98Wcy21PZrasYXYV3oZbDIpGnf1YFb0zTiixNYmoV5uGO6kOZi7yyLhSI",BBC EARTH
 https://ds.ayakkabiparti.lol/bbc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Viasathistory" tvg-name="Viasathistory" group-title="Belgesel" tvg-logo="turk-tv1/image/viasat.png",Viasathistory
+#EXTINF:-1 tvg-id="Viasathistory" tvg-name="Viasathistory" group-title="Belgesel" tvg-logo="https://avatars.mds.yandex.net/i?id=b4edf6ed0cf240e5ff111efc7bd5e4f94ae97e4a-5243845-images-thumbs&n=13",Viasathistory
 https://ds.ayakkabiparti.lol/viasathistory/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="Viasatexplore" tvg-name="Viasatexplore" group-title="Belgesel" tvg-logo="turk-tv1/image/davinci.png",Viasatexplore
-https://ds.ayakkabiparti.lol/viasatexplore/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="History" tvg-name="History" group-title="Belgesel" tvg-logo="turk-tv1/image/history.png",History
+#EXTINF:-1 tvg-id="History" tvg-name="History" group-title="Belgesel" tvg-logo="https://avatars.mds.yandex.net/i?id=f184f073f6d4a494f74c83a0dfa683c89ab334ba-8314096-images-thumbs&n=13",History
 https://ds.ayakkabiparti.lol/history/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="Belgesel" tvg-logo="turk-tv1/image/discoverychannel.png",Discovery
 https://ds.ayakkabiparti.lol/discovery/tracks-v1a1/mono.ts.m3u8
