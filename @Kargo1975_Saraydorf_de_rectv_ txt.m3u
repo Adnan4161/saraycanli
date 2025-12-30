@@ -111,10 +111,10 @@ https://web.goals-399.workers.dev/?ID=yayinss.m3u8
 https://purple-fog-7608.han686314.workers.dev/androstreamlivess2.m3u8
 #EXTINF:-1 tvg-id="Tabii Spor" tvg-name="Tabii Spor" group-title="Spor" tvg-logo="https://avatars.mds.yandex.net/i?id=101d88dccb5f472d6ab2958a0fc69af503755e37-5870427-images-thumbs&n=13",Tabii Spor
 https://one.b2a7fa109ef84a6f.click/live/stivibuspor-2/playlist.m3u8
-#EXTINF:-1 tvg-id="Tivibu3" tvg-name="Tivibu 3" group-title="Spor" tvg-logo="turk-tv1/image/tivibuspor3.png",Tivibuspor 3
-https://one.b2a7fa109ef84a6f.click/live/stivibuspor-3/playlist.m3u8
-#EXTINF:-1 tvg-id="Tivibu4" tvg-name="Tivibu 4" group-title="Spor" tvg-logo="turk-tv1/image/tivibuspor4.png",Tivibuspor 4
-https://one.b2a7fa109ef84a6f.click/live/stivibuspor-4/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports Tv" tvg-name="Sports Tv" group-title="Spor" tvg-logo="https://avatars.mds.yandex.net/i?id=e9132f33cc0ad5136ea85167d8827f3c2915eef4-5349316-images-thumbs&n=13",Sports Tv
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+#EXTINF:-1 tvg-id="Tjk Tv" tvg-name="Tjk Tv" group-title="Spor" tvg-logo="https://avatars.mds.yandex.net/i?id=865625f6c1250ab1df6b9ae07732f543fe9f56e4-8259514-images-thumbs&n=13",Tjk Tv
+https://tjktv-live.tjk.org/tjktv/tjktv_480p.m3u8
 #EXTINF:-1 tvg-id="SSport" tvg-name="SSport" group-title="Spor" tvg-logo="turk-tv1/image/s_sport.png",SSport
 https://one.b2a7fa109ef84a6f.click/live/sssport/playlist.m3u8
 #EXTINF:-1 tvg-id="SSSport2" tvg-name="SSport2" group-title="Spor" tvg-logo="turk-tv1/image/s_sport2.png",SSport
