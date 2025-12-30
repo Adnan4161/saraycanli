@@ -123,15 +123,16 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Power" tvg-name="Power" group-title="Müzik" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b5/Power_TV_logosu.png", Power Tv
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
-#EXTINF:-1 tvg-id="Powerturk" tvg-name="Powerturk" group-title="Müzik" tvg-logo="turk-tv1/image/powerturktv.png",Powerturk
+#EXTINF:-1 tvg-id="Powerturk" tvg-name="Powerturk" group-title="Müzik" tvg-logo="https://i.pinimg.com/474x/6b/18/92/6b18927acd6e9201df58a2c8aab3d9f5.jpg",Powerturk
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dreamturk" tvg-name="Dreamturk" group-title="Müzik" tvg-logo="turk-tv1/image/dreamtvturk.png",Dreamturk
+#EXTINF:-1 tvg-id="Dreamturk" tvg-name="Dreamturk" group-title="Müzik" tvg-logo="https://www.nisandaadanada.com/images/user/sponsor/2018/dream-turk.jpg",Dreamturk
 https://tatatam.trt1sultanfatihss.workers.dev/https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-id="Minikacocuk" tvg-name="Minikacocuk" group-title="Çocuk" tvg-logo="turk-tv1/image/minikacocuk.png",Minikacocuk
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-#EXTINF:-1 tvg-id="Minikago" tvg-name="Minikago" group-title="Çocuk" tvg-logo="turk-tv1/image/minikago.png",Minikago
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork" tvg-name="Cartoonnetwork" group-title="Çocuk" tvg-logo="turk-tv1/image/cartoonnetwork.png",Cartoonnetwork
-https://ds.ayakkabiparti.lol/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="TRTÇocuk" tvg-name="TRT Çocuk" group-title="Çocuk" tvg-logo="turk-tv1/image/trtcocuk.png",TRT Çocuk
+#EXTINF:-1 tvg-id="TRTÇocuk" tvg-name="TRT Çocuk" group-title="Çocuk" tvg-logo="https://imgrosetta.mynet.com.tr/file/1446206/320x180.jpg",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Minikacocuk" tvg-name="Minikacocuk" group-title="Çocuk" tvg-logo="https://files.sikayetvar.com/lg/cmp/16/163611.png?1614959819",Minikacocuk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 tvg-id="Minikago" tvg-name="Minikago" group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/MinikaGO.png/330px-MinikaGO.png",Minikago
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork" tvg-name="Cartoonnetwork" group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png",Cartoonnetwork
+https://ds.ayakkabiparti.lol/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
+
