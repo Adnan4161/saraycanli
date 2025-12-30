@@ -37,6 +37,16 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Tv 100" tvg-name="Tv 100" group-title="Ulusal" tvg-logo="https://suleymanpasa.bel.tr/images/basinulusal/tv100.png",Tv 100
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?&sid=7v48tn61jmap&app=356e7599-d81d-4357-935a-355a1ad9846e&ce=3
+#EXTINF:-1 tvg-id="Kanal B" tvg-name="Kanal B" group-title="Ulusal" tvg-logo="https://suleymanpasa.bel.tr/images/basinulusal/tv100.png",Kanal B
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?&sid=7v48tn61jmap&app=356e7599-d81d-4357-935a-355a1ad9846e&ce=3
+#EXTINF:-1 tvg-id="Cnbc-e" tvg-name="Cnbc-e" group-title="Ulusal" tvg-logo="https://yandex-images.clstorage.net/Dn9p93E85/e264bfVOLB/J4K8Bc-CK05qWW_nTb73urdRy1z5jXMOXIOinTqu1nis96qN-qQ3JVqlWFmT0EzgH76Bndid_kvWa5hDMx6vmTKC_EmJyTQbOhh2s0W98riqDIhN5dd3U0bB_sh48I99q_TEsILSFhskwSh76qtT4Enp09HFz6BDznrafltbiNAVjawx_LVRZmpHEtl-ivGxvzrQe-jkeUlDqdDmcJuXA9Ot3bek4RUmIekgRueNSclV5vLeivu_V6pozG5HFYHxP6GQA828ZlpEWhj_ZZPLjLsFw1bu2nt8XJLP6kemozLJnvO1ssMXPjP5JknBnWvZYsrm_Z7khme6f9ppXjWV5T6CpRbNgX9NZXMmx2iW3J2eFtZt9Mhee0eG3txfurIuzLDtgLXwDBEn5glmyK5C42vKwO2u1YpnlW3mREIomukrk5op2bBxcXpJBfNnvum0uzP9YP34fUdhjv3JYZ2AJuyT7IC0wAcQB_QVe_Cib8RD5ezlu8S7YqVJwW1-HoHDJbOBKui5VkVlbi_6eKPknro782rY4HZ_WpD46UCImwf_k9OMgP81EjjjCX7UrWTZce7U07rfm0CsVONMVzyG7AGUvADsvWhkf3AS8VSR5q2pMeBr_cpyYFiO9uJQibMB46DxvKjSJwEb1Axr9Kxt7F_Hz-667ZZWmmb6TG4sgtY8jroc055Jdn9eEthLgPWGiwfka-PkXl5hivHqboqzAeq00oCZxTUmBuQjX9aoYOtsz_vfgsmkbKV40ElxIpTlHaijIsewb2pIfzbcYaLllp4a0lDmzlNJX6T641K8tBrRkvOfrOYFLh3aKFvQo2XNa8zHz4PNvWKLZ_lAag-X9j26rTLNhGNaW00t2F2D4JyGBcJ3z_RyUEaF2M1hoqYX-IvzuLHhAjwDwTFI9Idl9HfI8se9x4trh0_mdHM-r9I7sas13p1SbnZjMt1Yiv6pvSv1UtXzSnJDlenjbaA",Cnbc-e
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?&sid=7v48tn61jmap&app=356e7599-d81d-4357-935a-355a1ad9846e&ce=3
+#EXTINF:-1 tvg-id="Tv 360" tvg-name="Tv 360" group-title="Ulusal" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.qBH-4jF1tWOHUdb8DX6M6gHaFO?w=219&h=180&c=7&r=0&o=5&pid=1.7",Tv 360
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" group-title="Belgesel" tvg-logo="https://avatars.mds.yandex.net/i?id=dd40692de6d9c19d527962f03f056607ad08fb25-12637272-images-thumbs&n=13",Dmax
 https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=http://116.202.238.88/DMAX_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="Belgesel" tvg-logo="https://avatars.mds.yandex.net/i?id=5f4c3be277e1a2bf0c1cffbec1f14a041f8b63d5-5628812-images-thumbs&n=13",TRT Belgesel
@@ -75,8 +85,6 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Haberturk" tvg-name="Haberturk" group-title="Haber" tvg-logo="https://avatars.mds.yandex.net/i?id=696ee91f9f0f31252e2df6ef25afa50e6ee20c7b-9148169-images-thumbs&n=13",Haberturk
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
-#EXTINF:-1 tvg-id="TV100" tvg-name="TV100" group-title="Haber" tvg-logo="https://avatars.mds.yandex.net/i?id=759051e4f2c693e554496b663c7773b7df7a5d03-5906397-images-thumbs&n=13",TV100
-https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 tvg-id="TV24" tvg-name="TV24" group-title="Haber" tvg-logo="https://avatars.mds.yandex.net/i?id=cc7d7325c844ffe641ea2ed7cd90ed237cbfe265-4885223-images-thumbs&n=13",TV24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="Moviesmartturk" tvg-name="Moviesmart Turk" group-title="Sinema" tvg-logo="https://avatars.mds.yandex.net/i?id=36f564fa3e8fcfb41eae4864f9e4fe74c640be95-4033562-images-thumbs&n=13",Moviesmart turk
