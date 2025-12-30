@@ -115,29 +115,13 @@ https://one.b2a7fa109ef84a6f.click/live/stivibuspor-2/playlist.m3u8
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:-1 tvg-id="Tjk Tv" tvg-name="Tjk Tv" group-title="Spor" tvg-logo="https://avatars.mds.yandex.net/i?id=865625f6c1250ab1df6b9ae07732f543fe9f56e4-8259514-images-thumbs&n=13",Tjk Tv
 https://tjktv-live.tjk.org/tjktv/tjktv_480p.m3u8
-#EXTINF:-1 tvg-id="SSport" tvg-name="SSport" group-title="Spor" tvg-logo="turk-tv1/image/s_sport.png",SSport
-https://one.b2a7fa109ef84a6f.click/live/sssport/playlist.m3u8
-#EXTINF:-1 tvg-id="SSSport2" tvg-name="SSport2" group-title="Spor" tvg-logo="turk-tv1/image/s_sport2.png",SSport
-https://one.b2a7fa109ef84a6f.click/live/sssport2/playlist.m3u8
-#EXTINF:-1 tvg-id="SSPORT+1" tvg-name="SSPORT+1" group-title="Spor" tvg-logo="turk-tv1/image/ssportplus.png",SSport+1
-https://one.b2a7fa109ef84a6f.click/live/sssplus1/playlist.m3u8
-#EXTINF:-1 tvg-id="SSPORT+PLUS2" tvg-name="SSPORT+ PLUS2" group-title="Spor" tvg-logo="turk-tv1/image/ssportplus.png",SSport+2
-https://one.b2a7fa109ef84a6f.click/live/sssplus2/playlist.m3u8
-#EXTINF:-1 tvg-id="Smart1" tvg-name="Smart 1" group-title="Spor" tvg-logo="turk-tv1/image/sporsmart.png",Smart 1
-https://one.b2a7fa109ef84a6f.click/live/ssmartspor/playlist.m3u8
-#EXTINF:-1 tvg-id="Smart2" tvg-name="Smart 2" group-title="Spor" tvg-logo="turk-tv1/image/sporsmart2.png",Smart 2
-https://one.b2a7fa109ef84a6f.click/live/ssmartspor2/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport 1" group-title="Spor" tvg-logo="turk-tv1/image/eurosport1.png",Eurosport 1
 https://one.b2a7fa109ef84a6f.click/live/seurosport1/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport2" tvg-name="Eurosport 2" group-title="Spor" tvg-logo="turk-tv1/image/eurosport2.png",Eurosport 2
-https://one.b2a7fa109ef84a6f.click/live/seurosport2/playlist.m3u8
-#EXTINF:-1 tvg-id="Aspor" tvg-name="Aspor" group-title="Spor" tvg-logo="turk-tv1/image/aspor.png",Aspor
-https://one.b2a7fa109ef84a6f.click/live/saspor/playlist.m3u8
-#EXTINF:-1 tvg-id="trtmuzik" tvg-name="Nr1" group-title="Müzik" tvg-logo="turk-tv1/image/trtmuzik.png",TRT Müzik
+#EXTINF:-1 tvg-id="trtmuzik" tvg-name="trtmuzik" group-title="Müzik" tvg-logo="https://yandex-images.clstorage.net/Dn9p93E85/e264bfVOLB/J4K8Bc-CK05qWW_nTb73urdRy1z5jXMOXIOikDD91HCi9azX9Kcxc1ikUQ2bhE_jFenTn4-bqx3RO5sWZUmumGPTqkmMwzATPx55qQG5_r6oGtYU-cpvXFeUucRlu9oup_aosJzSFQY03DN15Kxk-Ebj0syTgqxBjSDcU1sk7eUhp6YA6LBBd0tOLM1rgsm9oQ_gTM_HXFJNkdHqS7OxNtmO8amb9CYFCdkbfdmhQuJv_93tnM2YXplEzkVLOKPsAI2KPNqBSEB3YDHHTZnQh5wL31_iwWJQeI7q9UeEjALolMKHmeIEBxHLC3vWh1LAf8jx-b_Zh2epVNlTTCGD-BSMqQnPgXVZYEEY-XWU1ZCNLsxK2dtwdX-V_uRxnJAT9JHsmazlNxw-3xRU-Y5h6UXB8d-v6bZrqXvLb2E9nvcYmbg28JVEV1xeItpBm_2lpAvpYdTSQFZDs_bHZKK3Ifyxz5is5AcXP_8GSOS2bcRi6d7zp_ynWqxL70hIAajsMpeYLfOkTXBoQQXwSITgqI4K4W_e91hde4jowkSDojrdos-noNA4JT3AEVThkmLPf9vVy5H9vHqOQvJqaSiK6x2zvxDZoElOSVsbzUOo0qq9Get839JyWWSK9sxPk6MS2778hZD4FTcu4yZR9LJjxkr1_NCs_Y53mHTAc2kRmu8njqUWxZ9qb1tbNc1qt8O5ljvdeN_MXHVas_LLR62gEtu36KasyQIlCf4WfsCQZ8tNxvTkncWqRaJL3llsDpT5FK-DD_uLRElHbBTpbp3hqYYuwE7kyXZ4TY3cwE6RlhXAjM6Hs_whFQHlKHXElmzOa8H32I3ErlysZcFwZRW5-gePkQHrgXBFd38m8mqhwKyMNt9ew-BMWVSU_eJgoogHzaXXh5ThJhIT-zNs17JIzlLd8-2F-qRqpWnpb1EMiMIjiZoH7JJpdENSCO1vpMmyuQ3xaeb6S2F2ke3TTq4",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="Nr1turk" tvg-name="Nr1turk" group-title="Müzik" tvg-logo="turk-tv1/image/nr1turk.png",Nr1turk
+#EXTINF:-1 tvg-id="Nr1turk" tvg-name="Nr1turk" group-title="Müzik" tvg-logo="https://kuasark.com/files/stations-logos/nr1.png",Nr1turk
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Power" tvg-name="Power" group-title="Müzik" tvg-logo="turk-tv1/image/powertv.png", Power
+#EXTINF:-1 tvg-id="Power" tvg-name="Power" group-title="Müzik" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b5/Power_TV_logosu.png", Power Tv
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
 #EXTINF:-1 tvg-id="Powerturk" tvg-name="Powerturk" group-title="Müzik" tvg-logo="turk-tv1/image/powerturktv.png",Powerturk
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
