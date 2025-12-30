@@ -35,6 +35,8 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz" tvg-name="TRT Avaz" group-title="Ulusal" tvg-logo="https://avatars.mds.yandex.net/i?id=ba4e50be44b7604d84f4c80596eba0d6916e9aa3-5225319-images-thumbs&n=13",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Tv 100" tvg-name="Tv 100" group-title="Ulusal" tvg-logo="https://suleymanpasa.bel.tr/images/basinulusal/tv100.png",Tv 100
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?&sid=7v48tn61jmap&app=356e7599-d81d-4357-935a-355a1ad9846e&ce=3
 #EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" group-title="Belgesel" tvg-logo="https://avatars.mds.yandex.net/i?id=dd40692de6d9c19d527962f03f056607ad08fb25-12637272-images-thumbs&n=13",Dmax
 https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=http://116.202.238.88/DMAX_TR/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="Belgesel" tvg-logo="https://avatars.mds.yandex.net/i?id=5f4c3be277e1a2bf0c1cffbec1f14a041f8b63d5-5628812-images-thumbs&n=13",TRT Belgesel
