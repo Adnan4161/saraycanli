@@ -57,7 +57,8 @@ https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=eWV2UWE5Si91TlEvR2VEeEtDc2Y5Z24yeDhXczN5UkVHTVBRVWhjWWxlTT0=&sid=7beb5anp8of0&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
 #EXTINF:-1 tvg-id="Tgrt Belgesel" tvg-name="Tgrt Belgesel" group-title="Belgesel" tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png",Tgrt Belgesel
 https://live.canlitvulusal.xyz/live/tgrtbelgesel/index.m3u8
-
+#EXTINF:-1 tvg-id="Çiftçi Tv" tvg-name="Çiftçi Tv" group-title="Belgesel" tvg-logo="https://www.ciftcitv.com/assets_coming/img/ciftcitv_logo.svg",Çiftçi Tv
+https://live.canlitvulusal.xyz/live/tgrtbelgesel/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Tarihtv" tvg-name="Tarihtv" group-title="Belgesel" tvg-logo="https://avatars.mds.yandex.net/i?id=7424f51a70c90b96f39cc6fb994f8c10f600dc74-3577053-images-thumbs&n=13",Tarihtv
