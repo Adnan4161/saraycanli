@@ -153,3 +153,5 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 https://ds.ayakkabiparti.lol/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Şömine" tvg-name="Şömine" group-title="Şömine" tvg-logo="https://i.ibb.co/4yk3ccg/mine.png",Şömine (Sesli)
 https://www.youtube.com/watch?v=mKCieTImjvU
+#EXTINF:-1 tvg-id="Tivi6" tvg-name="Tivi6" group-title="Sinema" tvg-logo="https://tivi6.com.tr/wp-content/uploads/2025/03/logo_448x200-01.png",Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
