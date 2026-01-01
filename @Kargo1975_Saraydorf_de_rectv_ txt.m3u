@@ -89,6 +89,8 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Haberturk" tvg-name="Haberturk" group-title="Haber" tvg-logo="https://avatars.mds.yandex.net/i?id=696ee91f9f0f31252e2df6ef25afa50e6ee20c7b-9148169-images-thumbs&n=13",Haberturk
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="Tgrt Haber" tvg-name="Tgrt Haber" group-title="Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Tgrt.png/250px-Tgrt.png",Tgrt Haber
+https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-id="TV24" tvg-name="TV24" group-title="Haber" tvg-logo="https://avatars.mds.yandex.net/i?id=cc7d7325c844ffe641ea2ed7cd90ed237cbfe265-4885223-images-thumbs&n=13",TV24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="Moviesmartturk" tvg-name="Moviesmart Turk" group-title="Sinema" tvg-logo="https://avatars.mds.yandex.net/i?id=36f564fa3e8fcfb41eae4864f9e4fe74c640be95-4033562-images-thumbs&n=13",Moviesmart turk
