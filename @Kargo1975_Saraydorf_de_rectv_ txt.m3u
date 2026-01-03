@@ -10,7 +10,7 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=81goen654r6n&app=a20ac41
 #EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="Ulusal" tvg-logo="https://i.ibb.co/21j5jLmG/show.jpg",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="Ulusal" tvg-logo="https://i.ibb.co/GfrLFzWT/now.png",Now
-http://bafn2025.cfd:80/tercan/tercan.1234/865025
+http://tv.sultanweb.workers.dev/?ID=now
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="Ulusal" tvg-logo="https://i.ibb.co/hFZ4Bnj4/tv8.png",TV8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
 #EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="Ulusal" tvg-logo="https://i.ibb.co/7NtqZLZ8/tv8bucuk.png",TV8.5
