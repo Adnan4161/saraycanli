@@ -75,6 +75,14 @@ https://ds.ayakkabiparti.lol/lovenature/tracks-v1a1/mono.ts.m3u8
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-id="Natgeowild" tvg-name="Natgeowild" group-title="Belgesel" tvg-logo="https://avatars.mds.yandex.net/i?id=c33008f4627c5248a57c03648349c9cf3207fd9a-4395607-images-thumbs&n=13",Natgeo Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 tvg-id="TRTHaber" tvg-name="TRT Haber" group-title="Haber" tvg-logo="https://avatars.mds.yandex.net/i?id=8086718a2b361699906be423e94868c13676c6b8-12179478-images-thumbs&n=13",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Ntv" tvg-name="Ntv" group-title="Haber" tvg-logo="https://avatars.mds.yandex.net/i?id=dbdba02ce8b22c342c2c4a3d558d4ecf40c6f02c-12731609-images-thumbs&n=13",Ntv
+https://tatatam.trt1sultanfatihss.workers.dev/http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694
+#EXTINF:-1 tvg-id="Haberturk" tvg-name="Haberturk" group-title="Haber" tvg-logo="https://avatars.mds.yandex.net/i?id=696ee91f9f0f31252e2df6ef25afa50e6ee20c7b-9148169-images-thumbs&n=13",Haberturk
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="Haber" tvg-logo="https://i.ibb.co/9kQ8XL6r/16.png",Cnn Türk
+http://95.174.71.114:80/TR-CNN-TURK/index.m3u8
 #EXTINF:-1 tvg-id="Sözcütv" tvg-name="Sözcü tv" group-title="Haber" tvg-logo="https://avatars.mds.yandex.net/i?id=1b09cb33783f4692d7ad8894a074d9f739de7763-7570876-images-thumbs&n=13",Sözcü tv
 https://ds.ayakkabiparti.lol/sozcutv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Halktv" tvg-name="Halktv" group-title="Haber" tvg-logo="https://avatars.mds.yandex.net/i?id=69045f0bfc81662e2d344b883bd7e12d581b3566-11551355-images-thumbs&n=13",Halktv
@@ -83,16 +91,10 @@ https://halktv.daioncdn.net/halktv/halktv_720p.m3u8?sid=7bie34ogsjwu&app=c86957d
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-id="Flashhaber" tvg-name="Flashhaber" group-title="Haber" tvg-logo="https://yandex-images.clstorage.net/5pbQp6130/9d578cbRd42/FSG66xdnfCWb5IA0JY6aoPBf5JH4LWTQt5aw5EBEt6TopK9rr0VT9efsLUKiIoXEJku_w0Yk572jBldlSdbLs8ExKftF4CkwiWIVNiVP2ienDyDW7qxzlicBpeDXkrRxKP0gd3JYCj-qMqRIqeQFBvJer4QS8mVvcxdY_9iWmneZKbThF7B-Zpa2APriBRbs5xau0G-sPZq_QGyggpliJHn4rTawVgT843OhQakrSYn2lWqRGXnr-fuYU_QMVtaz1eKzYlg2vGUaP4S4Y0Ud6GnWKFpjb_ZXN4Ei7AxVIKl5siG0sZLPva45JkmiLgbEud8iU1Q3rHBwF5t2Ct9aOl2qO-fX_bbi2TaKsiKMnq3n2u9VKaaxWjODp-DC2KkkvPhtuXFVjP6j8CyOquiFzzcUapPWfCsw9NtesgLeVL8bbr7ulrb7LxY3jvrrj9NvIV1mGCnsMpM3CS1tix3qoTUwK3axWQm3rTmsw-_mTEFwFqySE3gjf_3aHjVJ15b7Xan-5BG-uWcat8h05AXR7W4ebFjoKr0ac0Rj6czSKWN1uKU8MpFAeu0zr44naEYFvl1kV9lyZzD9llV7wlVaNZtv_qPStHat0z3Dd6KL2i1qlO5WriOxl3xNZOHC0aurfHKqMniSjn9kfW0LL2kPS_ifJ5Ze_eJ3dJsSvQobF7MXrrwi1T61rRZ3Q_ZlDFag6l-jXSCquhk2wmRozNSq57Z_LHw-kgz34rtrCGsjTk_-lW2UnvrruTxS3LmAUtMyk-0yJJ-_eufes01wqg2SY-baKNXnLLdYOoLios0bJm95Nuv0c1pP_Sy4pUavK0HPeRco2tK6b3q_1lTyBRge_1TlMayS_TZgEv6GtOWOWOoulucYKi4413_MrWCB0Cbovb-suzZeBPQn8a4O5uqOBDoVoRPQui_3fx5WvUbfF_-d7DwmUL77rVz8SrCtQlukYdep0aDluV-8RaMtA8",Flash Haber
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
-#EXTINF:-1 tvg-id="Ntv" tvg-name="Ntv" group-title="Haber" tvg-logo="https://avatars.mds.yandex.net/i?id=dbdba02ce8b22c342c2c4a3d558d4ecf40c6f02c-12731609-images-thumbs&n=13",Ntv
-https://tatatam.trt1sultanfatihss.workers.dev/http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694
 #EXTINF:-1 tvg-id="Bloomberght" tvg-name="Bloomberght" group-title="Haber" tvg-logo="https://avatars.mds.yandex.net/i?id=971ccc4248003f9258a5ccefaf882cf82fcd76e6-11454708-images-thumbs&n=13",Bloomberght
 https://tatatam.trt1sultanfatihss.workers.dev/https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=3
 #EXTINF:-1 tvg-id="Haberglobal" tvg-name="Haberglobal" group-title="Haber" tvg-logo="https://avatars.mds.yandex.net/i?id=cc446b993b022799350889d1f0d12c4501ff70e6-5239568-images-thumbs&n=13",Haber Global
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
-#EXTINF:-1 tvg-id="TRTHaber" tvg-name="TRT Haber" group-title="Haber" tvg-logo="https://avatars.mds.yandex.net/i?id=8086718a2b361699906be423e94868c13676c6b8-12179478-images-thumbs&n=13",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="Haberturk" tvg-name="Haberturk" group-title="Haber" tvg-logo="https://avatars.mds.yandex.net/i?id=696ee91f9f0f31252e2df6ef25afa50e6ee20c7b-9148169-images-thumbs&n=13",Haberturk
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-id="Tgrt Haber" tvg-name="Tgrt Haber" group-title="Haber" tvg-logo="https://i.ibb.co/C3nhy71R/27RstWf.png",Tgrt Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-id="TV24" tvg-name="TV24" group-title="Haber" tvg-logo="https://avatars.mds.yandex.net/i?id=cc7d7325c844ffe641ea2ed7cd90ed237cbfe265-4885223-images-thumbs&n=13",TV24
