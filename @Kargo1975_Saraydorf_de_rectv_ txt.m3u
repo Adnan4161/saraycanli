@@ -175,7 +175,7 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
 https://trn03.tulix.tv/gt-benguturk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Gzt Tv" tvg-name="Gzt Tv" group-title="Haber" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/320px-GZT_logo.svg.png",Gzt Tv
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:-1 tvg-id="Haber 61" tvg-name="Haber 61" group-title="Ulusal" tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Haber61.png",Haber 61
+#EXTINF:-1 tvg-id="Haber 61" tvg-name="Haber 61" group-title="Haber" tvg-logo="https://www.tvlogolar.xyz/logo/Turkiye/Haber61.png",Haber 61
 https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/chunklist_w894465842_b1796000.m3u8
 #EXTINF:-1 tvg-id="Lider Haber" tvg-name="Lider Haber" group-title="Haber" tvg-logo="https://i.ibb.co/bR1k9jhg/Vw9IGIT.png",Lider Haber
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
