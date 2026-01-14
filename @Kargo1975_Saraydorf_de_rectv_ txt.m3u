@@ -181,3 +181,5 @@ https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/chunklist_w894465842_b1796000.m3u8
 #EXTINF:-1 tvg-id="Lider Haber" tvg-name="Lider Haber" group-title="Haber" tvg-logo="https://i.ibb.co/bR1k9jhg/Vw9IGIT.png",Lider Haber
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
+#EXTINF:-1 tvg-id="Başka Tv" tvg-name="Başka Tv" group-title="Sinema" tvg-logo="https://assets.uzunmuhalefet.com/logos/feb106f8-f8a2-41bf-bd0b-9b79eea6e49c.png",Başka Tv
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/refs/heads/main/streams/baskatv-kick.m3u8
