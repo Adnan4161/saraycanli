@@ -187,3 +187,5 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/refs/heads/main/streams
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:-1 tvg-id="Trt Diyanet Çocuk" tvg-name="Trt Diyanet Çocuk" group-title="Çocuk" tvg-logo="https://app.medyaviyana.com/upload/1694878471_diyanet-cocuk-logo.png",Trt Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" group-title="Çocuk" tvg-logo="https://i.ibb.co/6Rq4dd6t/Um5V5Wk.png",Disney Jr
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
