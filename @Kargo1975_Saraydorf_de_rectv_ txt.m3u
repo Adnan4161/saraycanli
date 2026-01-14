@@ -193,3 +193,5 @@ https://saran-live.ercdn.net/disneyjunior/index.m3u8
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Mr.Bean" tvg-name="Mr.Bean" group-title="Sinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhp3DufSRPrRsKSICC514wHpyboJJkV9CgHw&s",Mr.Bean
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="Play Tv" tvg-name="Play Tv" group-title="Sinema" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp",Play Tv
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
