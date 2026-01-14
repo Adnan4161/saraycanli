@@ -153,7 +153,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-id="Power" tvg-name="Power" group-title="Müzik" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b5/Power_TV_logosu.png", Power Tv
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
-#EXTINF:-1 tvg-id="Powerturk" tvg-name="Powerturk" group-title="Müzik" tvg-logo="https://i.pinimg.com/474x/6b/18/92/6b18927acd6e9201df58a2c8aab3d9f5.jpg",Powerturk
+#EXTINF:-1 tvg-id="Powerturk" tvg-name="Powerturk" group-title="Müzik" tvg-logo="https://app.medyaviyana.com/upload/1762323620_powerturk-tv-logo.png",Powerturk
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Dreamturk" tvg-name="Dreamturk" group-title="Müzik" tvg-logo="https://www.nisandaadanada.com/images/user/sponsor/2018/dream-turk.jpg",Dreamturk
 https://tatatam.trt1sultanfatihss.workers.dev/https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
