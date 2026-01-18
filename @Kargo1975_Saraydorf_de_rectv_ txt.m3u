@@ -15,6 +15,8 @@ http://95.174.71.114:80/TR-FOX/index.m3u8
 http://95.174.71.114:80/TR-TV8/index.m3u8
 #EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://i.ibb.co/7NtqZLZ8/tv8bucuk.png",TV8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+#EXTINF:-1 tvg-id="Trt Genç" tvg-name="Trt Genç" group-title="ULUSAL" tvg-logo="https://i.ibb.co/Qv5vKtxS/trt-gen.png",Trt Genç
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Trt 2" tvg-name="Trt 2" group-title="ULUSAL" tvg-logo="https://trthaberstatic.cdn.wp.trt.com.tr/static/images/kanal-logo/trt-2-logo-fix.jpg",Trt 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="A2" tvg-name="A2" group-title="ULUSAL" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/f2/c7/72/f2c77251-bce6-9642-6daf-6fe5c0abfca6/AppIcon-1x_U007emarketing-85-220-0-6.png/256x256bb.jpg",A2
