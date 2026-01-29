@@ -54,7 +54,7 @@ https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="BELGESEL" tvg-logo="https://avatars.mds.yandex.net/i?id=5f4c3be277e1a2bf0c1cffbec1f14a041f8b63d5-5628812-images-thumbs&n=13",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" group-title="BELGESEL" tvg-logo="https://avatars.mds.yandex.net/i?id=dd40692de6d9c19d527962f03f056607ad08fb25-12637272-images-thumbs&n=13",Dmax
-https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
+https://dsmartgo-live.ercdn.net/dsmartgo/dmax/dmax.isml/dmax.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="BELGESEL" tvg-logo="https://img-tlctv.mncdn.com/logo.png",TLC
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=eWV2UWE5Si91TlEvR2VEeEtDc2Y5Z24yeDhXczN5UkVHTVBRVWhjWWxlTT0=&sid=7beb5anp8of0&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
 #EXTINF:-1 tvg-id="Yaban Tv" tvg-name="Yaban Tv" group-title="BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png",Yaban Tv
