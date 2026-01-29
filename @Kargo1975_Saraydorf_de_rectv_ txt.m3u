@@ -12,7 +12,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://i.ibb.co/GfrLFzWT/now.png",Now
 https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/foxtv.m3u8
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://i.ibb.co/hFZ4Bnj4/tv8.png",TV8
-http://95.174.71.114:80/TR-TV8/index.m3u8
+https://dsmartgo-live.ercdn.net/dsmartgo/tv8/tv8.isml/tv8.m3u8
 #EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://i.ibb.co/7NtqZLZ8/tv8bucuk.png",TV8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="Trt Genç" tvg-name="Trt Genç" group-title="ULUSAL" tvg-logo="https://i.ibb.co/Qv5vKtxS/trt-gen.png",Trt Genç
